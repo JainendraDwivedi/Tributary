@@ -1,0 +1,64 @@
+<!DOCTYPE ht<ml>
+<html lang="en">
+
+<head>
+
+    <title>Login</title>
+    <link rel="stylesheet" href="./css/WriteTribute.css">
+</head>
+
+<body>
+    <!-- Copied Background Animation -->
+    <div class="bg"></div>
+    <div class="bg bg2"></div>
+    <div class="bg bg3"></div>
+    <!-- Animation Close -->
+
+
+    <ul>
+
+        <li><a href="Home.html">Home</a></li>
+        <li><a href="WriteTribute.html"> Write Tribute </a></li>
+
+        <li style="float: right;"><a href="Signup.html">Sign Up</a></li>
+        <li style="float:right"><a href="Login.html">Login</a></li>
+    </ul>
+    <div class="imgcontainer">
+        <img src="Images/medias-tribute-to-craft-tribute-png-1200_900.png" alt="Avatar" class="avatar">
+    </div>
+    <form action="action_page.php" method="post">
+        <div class="container">
+            <div class="fieldBox">
+                <label for="uname"><b>Name</b></label>
+                <input type="text" placeholder="Enter name" name="uname" required>
+            </div>
+            <div class="fieldbox">
+                <div class="datefield" id="txtdob">
+                    <label for="uname"><b>Date of Birth</b></label>
+                    <input type="date" placeholder="Date of Birth" name="txtdob">
+                </div>
+                <div class="datefield" id="txtdod">
+                    <label for="uname"><b>Date of Death</b></label>
+                    <input type="date" placeholder="Date of Death" name="txtdod">
+                </div>
+            </div>
+
+
+            <div class="fieldBox4">
+                <label for="tribute"><b>Tribute</b></label>
+                <textarea type="text" placeholder="Enter tribute" name="txtTribute" required></textarea>
+            </div>
+            <div class="fieldbox3">
+                <label for="profileImg"><b>Image</b></label>
+                <input type="file" name="tributeImg" id="tributeImg" />
+            </div>
+            <div class="fieldbox1">
+                <button type="submit" id="btn">Submit</button>
+            </div>
+            <!-- <div class="fieldbox1"> -->
+        </div>
+    </form>
+
+</body>
+
+</html>
