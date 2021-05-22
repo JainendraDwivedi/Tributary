@@ -13,3 +13,5 @@ WOC 2021 | The Akatsuki
 3.Ansh Singh                      (https://github.com/Anshsingh21)      
 
 4.Aman Verma                      (https://github.com/amanv2947)
+
+This is a blog type website for paying tribute to the departed souls.
