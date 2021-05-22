@@ -6,6 +6,12 @@ WOC 2021 | The Akatsuki
 
 || The Akatsuki || 
 
+MENTOR - 
+
+Siddhi Mahawar           (https://github.com/Siddhi-Mahawar)
+
+MEMBERS -
+
 1.Jainendra Dwivedi (Team Leader) (https://github.com/JainendraDwivedi)
 
 2.Priya Kumari                    (https://github.com/priya03050)       
